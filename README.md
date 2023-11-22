@@ -26,7 +26,7 @@ MY SQL Connector Driver Version: mysql-connector-java-8.0.32
 
 (INDEX.HTML FILE FOR JAVADOC COMMENTS IS LOCATED IN "javadoc/" folder)
 
-#Directions
+# Directions
 Step 1: Visit Netbeans official website, and download the installer IDE for your operating system. Open the installer and follow the steps.
 
 Step 2: Download JDK 17, go to the Oracle website and search for "Java SE Development Kit 17.0.5". Download the installer for your operating system from the Oracle website.
